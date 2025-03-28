@@ -43,6 +43,19 @@ Cada uma dessas soluções apresenta uma maneira de resolver o problema de filtr
 
 ## Como Executar o Código
 
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://https://github.com/Igorgcf/Challenge-UpperCase.git
+```
+## Usage
+
+2. Run the application as a whole using the command: `mvn clean install` through the terminal.
+   
+   Execute a aplicação como um todo utilizando o comando: `mvn clean install` através do terminal.
+   
 ### 1. Compilar o Código Fonte
 
 Para compilar os arquivos Java, você pode usar o `javac`, que é o compilador padrão do Java.
