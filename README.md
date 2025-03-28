@@ -56,7 +56,7 @@ git clone https://https://github.com/Igorgcf/Challenge-UpperCase.git
    
    Execute a aplicação como um todo utilizando o comando: `mvn clean install` através do terminal.
    
-### 1. Compilar o Código Fonte
+### 1. Compilar o Código Fonte com Javac
 
 Para compilar os arquivos Java, você pode usar o `javac`, que é o compilador padrão do Java.
 
